@@ -4,7 +4,7 @@
 
 I have a deep passion for web development and everything that comes with it i.e designing and styling websites, managing and storing data, and of course, the best of it all, **bringing the ideas alive with code**.
 
----
+<br/>
 
 ## 👜 My current tech stack
 
